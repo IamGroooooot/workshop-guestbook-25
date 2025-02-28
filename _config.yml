@@ -1,0 +1,10 @@
+exclude:
+  - .github
+  - vendor
+
+collections:
+  - guestbook
+
+workshop:
+  name: CIEN Guestbook
+  github: https://github.com/CIEN-Club/workshop-guestbook-25
